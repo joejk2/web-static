@@ -11,7 +11,7 @@ refactor: true
 {% assign posts = '' | split: '' %}
 
 <!-- Get home content -->
-{% capture my_include %}{% include_relative assets/content/test.md %}{% endcapture %}
+{% capture my_include %}{% include_relative assets/content/home.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 <!-- Get pinned posts -->
