@@ -10,6 +10,10 @@ refactor: true
 
 {% assign posts = '' | split: '' %}
 
+<!-- Get home content -->
+{% capture my_include %}{% include_relative assets/content/test.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
 <!-- Get pinned posts -->
 
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
