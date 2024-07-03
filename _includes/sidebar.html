@@ -55,14 +55,9 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
-        {% when 'twitter' %}
+        {% when 'github', 'twitter' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
-          {%- endcapture -%}
-        {% when 'email' %}
-          {% assign email = site.social.email | split: '@' %}
-          {%- capture url -%}
-            javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
           {%- endcapture -%}
         {% else %}
           {% assign url = entry.url %}
