@@ -6,6 +6,7 @@ home_card: true
 comments: false
 icon: fas fa-chart-line
 order: 2
+refactor: false
 image:
   path: assets/img/timeseries.png
   lqip: data:image/webp;base64,VBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAAo0lEQVR4nFXQQU4EMRBD0f+daO5/TxZsoEXPQMwi3Ugsq+RXssrP9zeMiYpBadsCgGiCqnszf15PDYkGg1DuPMI/IPP1dWqIOiBoC39ASBQUUeZ5PNUakzLA1g28gLjLkTCPo0pdQKGk1cKO2et2MI3Mj2OoVRDGqr0HLgDWkDDSeZwPFOgGSOVqBq5dxnSMJmue3w+wuwRZvQGV7r9pTcfqiL9Wg0odsIxW3QAAAABJRU5ErkJggg==
@@ -27,12 +28,31 @@ We connect data from the [Ofgem Renewables Register](https://renewablesandchp.of
 ![Matched Energy ](/assets/img/matched-logo-lines-small.png){: width="100" }
 
 # Supplier scores
-<ul>
-  {% for supplier in site.scores %}
-    <li>
-        <a href="{{ supplier.url | remove: ".html" }}">
-          {{ supplier.title }}
-        </a>
-    </li>
-  {% endfor %}
-</ul>
+
+<table>
+{% for page in site.scores %}
+  <h3>
+      <a href="{{ page.url | remove: ".html" }}">
+        {{ page.title }}
+      </a>
+  </h3>
+  <table>
+    <tr>
+      <th>Metric</th>
+      <th>Score</th>
+    </tr>
+    <tr>
+      <td>Annual certificate matching</td>
+      <td>{{ page.annual_match_score }}</td>
+    </tr>
+    <tr>
+      <td>Half-hourly certificate matching</td>
+      <td>{{ page.hh_match_score }}</td>
+    </tr>
+    <tr>
+      <td>Half-hourly power matching</td>
+      <td>{{ page.power_match_score }}</td>
+    </tr>
+  </table>
+
+{% endfor %}
