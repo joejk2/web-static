@@ -10,16 +10,12 @@
 > 1. interrogate public datasets to establish the reality behind '100% renewable' claims
 > 2. identify the best practices and leading suppliers
 > 3. engage and educate consumers, particularly homeowners
+>
+> In the first instance our focus is in the UK.
+>
+> More details coming soon - [join our newsletter](/newsletter) for updates!
 {: .prompt-tip }
 
 &nbsp;
-![Matched Energy ](/assets/img/matched-logo-lines-small.png#center){: width="100" .normal }
-&nbsp;
-
-
-> More details coming soon - [join our newsletter](/newsletter) for updates.
-{: .prompt-tip }
-
-&nbsp;
-![Matched Energy ](/assets/img/matched-logo-lines-small.png#center){: width="100" .normal }
+![Matched Energy ](/assets/img/matched-logo-lines-small.png#center){: width="100" }
 &nbsp;
