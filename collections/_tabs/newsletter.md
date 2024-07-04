@@ -3,7 +3,6 @@
 icon: fas fa-spinner
 order: 3
 ---
-![matched-energy](/assets/img/matched-logo-cropped.png)
 <!-- Begin Brevo Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
 <style>
