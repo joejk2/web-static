@@ -6,7 +6,7 @@
 
 > Matched is an initiative to promote greater transparency in the way that renewable power is sold.
 >
-> We:
+> Our goals are to: 
 > 1. interrogate public datasets to establish the reality behind '100% renewable' claims
 > 2. identify the best practices and leading suppliers
 > 3. engage and educate consumers, particularly homeowners
