@@ -1,15 +1,14 @@
 &nbsp;
 
-
-Matched is an initiative to promote greater transparency in the way that renewable power is sold. We interrogate public datasets to establish the reality between claims of '100% renewable'. We identify the best practices in the industry and help consumers choose the leading suppliers.
-
-&nbsp;
-
-![Matched Energy ](/assets/img/matched-logo-cropped.png)
+![Matched Energy ](/assets/img/matched-logo-lines.png)
 
 &nbsp;
 
-More details coming soon...
+Matched is an initiative to promote greater transparency in the way that renewable power is sold.
 
+We:
+- interrogate public datasets to establish the reality behind '100% renewable' claims
+- identify the best practices and leading suppliers
+- engage and educate consumers, particularly homeowners
 
-
+More details coming soon - [join our newsletter](/newsletter) for updates.
