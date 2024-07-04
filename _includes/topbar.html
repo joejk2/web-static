@@ -21,19 +21,24 @@
               </a>
             </span>
 
-          {% elsif forloop.last %}
-            {% if page.collection == 'tabs' %}
-              <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
+          {% else %}
+            {% assign path =  paths | slice: 0, forloop.index | join: "/" | remove: ".html" %}
+            {% assign name = item | remove: ".html" %}
+            {% if forloop.last %}
+              {% if name == 'index' %}
+              {% else %}
+                <span>
+                  {{- name | capitalize -}}
+                </span>
+              {% endif %}
             {% else %}
-              <span>{{ page.title }}</span>
+              <span>
+                <a href="{{ path | relative_url }}">
+                  {{- name | capitalize -}}
+                </a>
+              </span>
             {% endif %}
 
-          {% elsif page.layout == 'category' or page.layout == 'tag' %}
-            <span>
-              <a href="{{ item | append: '/' | relative_url }}">
-                {{- site.data.locales[include.lang].tabs[item] | default: page.title -}}
-              </a>
-            </span>
           {% endif %}
         {% endfor %}
       {% endif %}
