@@ -12,3 +12,8 @@
 span.email b {
 	display: none;
 }
+
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
