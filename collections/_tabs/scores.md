@@ -24,7 +24,7 @@ For each supplier we quantify the degree to which:
 We connect data from the [Ofgem Renewables Register](https://renewablesandchp.ofgem.gov.uk/), the [generation mix](https://www.nationalgrideso.com/data-portal/historic-generation-mix) from NGESO, and various [datasets from Elexon](https://bmrs.elexon.co.uk/api-documentation) (notably S0142). All of our work is open-sourced on [Github](https://github.com/matched-energy/scores).
 
 &nbsp;
-![Matched Energy ](/assets/img/matched-logo-lines-small.png#center){: width="100" }
+![Matched Energy ](/assets/img/matched-logo-lines-small.png){: width="100" }
 
 # Supplier scores
 <ul>
