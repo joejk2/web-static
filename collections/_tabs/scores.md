@@ -30,7 +30,7 @@ We connect data from the [Ofgem Renewables Register](https://renewablesandchp.of
 <ul>
   {% for supplier in site.scores %}
     <li>
-        <a href="{{ supplier.url }}">
+        <a href="{{ supplier.url | remove: ".html" }}">
           {{ supplier.title }}
         </a>
     </li>
