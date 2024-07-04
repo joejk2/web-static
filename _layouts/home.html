@@ -8,7 +8,7 @@ refactor: false
 
 {% assign pinned = site.posts | where: 'pin', 'true' %}
 
-{% assign default = site.scores | concat: site.tabs | where_exp: "page", "page.home_card == true"  %}
+{% assign default = site.scores | concat: site.tabs | where_exp: "post", "post.home_card == true"  %}
 
 {% assign posts = '' | split: '' %}
 
