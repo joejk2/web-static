@@ -29,12 +29,10 @@ We connect data from the [Ofgem Renewables Register](https://renewablesandchp.of
 # Supplier scores
 <ul>
   {% for supplier in site.scores %}
-  {% if supplier.url contains 'supplier' %}
-      <li>
-          <a href="{{ supplier.url }}">
-            {{ supplier.title }}
-          </a>
-      </li>
-  {% endif %}
+    <li>
+        <a href="{{ supplier.url }}">
+          {{ supplier.title }}
+        </a>
+    </li>
   {% endfor %}
 </ul>
