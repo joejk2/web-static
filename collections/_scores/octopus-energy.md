@@ -9,5 +9,5 @@ hh_match_score: 66%
 hh_match_note: ⚠️  likely to be ~70% when correcting for bug
 power_match_score: low
 power_match_note : predominantly certificate-based
-chart_timeseries: html/octopus_timeseries.html
+chart_timeseries: timeseries/octopus.html
 ---

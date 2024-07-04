@@ -9,5 +9,5 @@ hh_match_score: 70%
 hh_match_note:
 power_match_score: low
 power_match_note : predominantly certificate-based
-chart_timeseries: html/octopus_timeseries.html
+chart_timeseries: timeseries/so-energy.html
 ---

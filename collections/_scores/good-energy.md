@@ -9,5 +9,5 @@ hh_match_score: 83%
 hh_match_note: ⚠️  likely to be ~89% when correcting for bug
 power_match_score: high
 power_match_note : predominantly power-based
-chart_timeseries: html/octopus_timeseries.html
+chart_timeseries: timeseries/good-energy.html
 ---
