@@ -28,6 +28,7 @@ We connect data from the [Ofgem Renewables Register](https://renewablesandchp.of
 ![Matched Energy ](/assets/img/matched-logo-lines-small.png){: width="100" }
 
 # Supplier scores
+  <span style="color: red; font-weight: bold; align: center"><sup><i><small>preliminary numbers! see suppliers' pages for details.</small></i></sup> </span>
 
 <table>
 {% for page in site.scores %}
