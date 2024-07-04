@@ -57,21 +57,23 @@ tail_includes:
     {{ content }}
   </div>
 
-<div id='discourse-comments'></div>
-<meta name='discourse-username' content='joe'>
+{% if page.comments %}
+  <div id='discourse-comments'></div>
+  <meta name='discourse-username' content='joe'>
 
-<script type="text/javascript">
-  DiscourseEmbed = {
-    discourseUrl: 'https://matched.discourse.group/',
-    discourseEmbedUrl: 'https://matched.energy/posts/{{ page.title }}',
-  };
+  <script type="text/javascript">
+    DiscourseEmbed = {
+      discourseUrl: 'https://matched.discourse.group/',
+      discourseEmbedUrl: 'https://matched.energy/posts/{{ page.title }}',
+    };
 
-  (function() {
-    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
-    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
-  })();
-</script>
+    (function() {
+      var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+      d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+    })();
+  </script>
+{% endif %}
 
   <!-- div.post-tail-wrapper -->
 </article>
