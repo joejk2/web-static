@@ -1,6 +1,7 @@
 ---
-layout: default
-refactor: true
+layout: page
+title: Matched
+refactor: false
 ---
 
 {% include lang.html %}
@@ -11,7 +12,7 @@ refactor: true
 {% assign posts = '' | split: '' %}
 
 <!-- Get home content -->
-{% capture my_include %}{% include_relative assets/content/home.md %}{% endcapture %}
+{% capture my_include %}{% include_relative collections/home.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 <!-- Get pinned posts -->
