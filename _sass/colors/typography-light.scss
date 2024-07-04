@@ -85,7 +85,7 @@
   --prompt-warning-bg: rgb(255, 243, 205);
   --prompt-warning-icon-color: #ef9c03;
   --prompt-danger-bg: rgb(248, 215, 218, 0.56);
-  --prompt-danger-icon-color: #df3c30;
+  --prompt-danger-icon-color: rgb(248, 215, 218, 0.0); /* #df3c30; */
 
   /* Tags */
   --tag-border: #dee2e6;
