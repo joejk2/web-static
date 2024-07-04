@@ -28,7 +28,7 @@
               {% if name == 'index' %}
               {% else %}
                 <span>
-                  {{- name | capitalize -}}
+                  {{- name | replace: '-', ' ' | capitalize -}}
                 </span>
               {% endif %}
             {% else %}
