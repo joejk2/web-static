@@ -60,8 +60,24 @@ refactor: true
     <td>{{ page.bsc_party_id}}</td>
   </tr>
   <tr>
-    <td>Annual Load</td>
-    <td>{{ page.annual_load_GWh }} GWh </td>
+    <td>REGO organisation name</td>
+    <td>{{ page.rego_organisation_name }}</td>
+  </tr>
+  <tr>
+    <td>Annual load</td>
+    <td>{{ page.l_hh_sum_GWh }} GWh </td>
+  </tr>
+  <tr>
+    <td>Annual contracted renewables </td>
+    <td>{{ page.g_hh_sum_GWh }} GWh </td>
+  </tr>
+  <tr>
+    <td>Generation-to-load ratio  </td>
+    <td>{{ page.g_l_ratio }}</td>
+  </tr>
+  <tr>
+    <td>Estimated fraction of generation that is embedded </td>
+    <td>{{ page.g_embedded_ratio}} </td>
   </tr>
 </table>
 
@@ -72,16 +88,20 @@ refactor: true
 
 <table>
   <tr>
-    <td>Annual certificate matching</td>
-    <td>{{ page.annual_match_score }}<br><sub><i>{{ page.annual_match_note }}</i></sub></td>
+    <td>Annual matching </td>
+    <td>{{ page.s_yr}}</td>
   </tr>
   <tr>
-    <td>Half-hourly certificate matching</td>
-    <td>{{ page.hh_match_score }}<br><sub><i>{{ page.hh_match_note }}</i></sub></td>
+    <td>Half-hourly matching </td>
+    <td>{{ page.s_hh }}</td>
   </tr>
   <tr>
-    <td>Half-hourly power matching</td>
-    <td>{{ page.power_match_score }}<br><sub><i>{{ page.power_match_note }}</i></sub></td>
+    <td>Scoring methodology</td>
+    <td>{{ page.scoring_methodology }}</td>
+  </tr>
+  <tr>
+    <td>Scoring confidence</td>
+    <td>{{ page.confidence }}</td>
   </tr>
 </table>
 
