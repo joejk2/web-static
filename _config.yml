@@ -164,8 +164,12 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-collections_dir: collections
+collections_dir:
+  content
 collections:
+  home:
+    output: true
+    sort_by: order
   tabs:
     output: true
     sort_by: order
