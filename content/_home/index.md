@@ -23,6 +23,6 @@ We focus on the **supply-business** which procures electricity on behalf of comm
 
   Our code and results are all **open-source** and we actively engage industry experts, including from energy suppliers, to validate and refine our methodology. We are a **not-for-profit** organisation funded entirely by philanthropic donations.
 
-{% include matched-logo-break.html %}
+{% include matched-lines-break.html %}
 
 ## Overview
