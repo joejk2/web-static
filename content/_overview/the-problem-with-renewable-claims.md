@@ -148,7 +148,7 @@ Annual matching no longer cuts it: the accounting behind renewable claims needs 
 
 Temporal matching
 
-{% include explicit-related-posts.html related_pages="3b8dac" %}
+{% include related-page-cards.html related_pages="3b8dac" %}
 
 Physics // accounting
   power & certificates
