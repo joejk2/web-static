@@ -33,7 +33,7 @@ Electricity generators contribute their power into the grid and consumers indisc
 No one customer is any more connected to a wind- or solar-farm than any other customer.
 
 ## Contractual provenance
-![Supplier balancing](/home/assets/grid-balancing-supplier.png){: w="550" h="366" .right}
+![Supplier balancing](/home/assets/grid-balancing-supplier.png){: w="450" h="300" .right}
 
 However, physics notwithstanding, at a _contractual level_ customers can meaningfully own the power from wind- or solar-farms by virtue of the supplier they choose.
 
@@ -51,7 +51,7 @@ If your supplier is genuinely procuring renewables on your behalf then your powe
 The bigger challenges to suppliers' claim are that (a) the grid must be balanced at all times and that (b) renewables are intermittent.
 
 **Grid balancing**
-![Grid Balancing](/home/assets/grid-balancing.png){: w="550" h="366" .right}\
+![Grid Balancing](/home/assets/grid-balancing.png){: w="450" h="300" .right}\
 The grid must be in perfect equipoise at all moments, hour by hour, second by second. Whatever is consumed from the grid must be met in equal and simultaneous measure by the generators that feed the grid.
 
 A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a specific height: what is withdrawn must be immediately replaced.
@@ -61,11 +61,12 @@ A reasonable analogy[^voltage-water] is a reservoir of water that must always be
 The grid is intricately balanced by a combination of power markets, automatic micro-adjustments by generators, and direct intervention by National Grid. Even slight imbalances can lead to equipment failure, brown-outs, and blackouts.
 
 **The intermittency of renewables**
-![Intermittency of renewables](/home/assets/missing.png){: w="550" h="366" .right}\
+![Intermittency of renewables](/home/assets/missing.png){: w="450" h="300" .right}\
 And yet the sun doesn't always shine and the wind doesn't always blow!
 
 So, in order for the grid to remain balanced, when there's a scarcity of wind and solar power it must be met by 'firm supply' which, currently, is predominantly gas-powered power plants.
 
+<br>
 ## Flexibility
 Long-term we need to be able to work around the intermittency of renewable generation by:
 
@@ -79,7 +80,7 @@ Flexibility is essential for the deep decarbonisation of the grid, but we curren
 
 The number of batteries on the grid has grown from essentially nothing to XX over the last five years and numbers are expected to triple again in the next couple of years, but the total capacity is still tiny when compared to the rest of the grid.
 
-![Flexibility versus consumption](/home/assets/missing.png){: w="550" h="366" .right}
+![Flexibility versus consumption](/home/assets/missing.png){: w="450" h="300" .right}
 We don't yet have enough batteries to shift even 1% of our daily usage, let alone to move wind energy from a windy week to a still week or solar energy from the summer to the winter.
 
 Our ability to flex demand will increase as our homes are electrified, and much of it will be done in the background, without us noticing, by smart-devices that respond to grid signals.
@@ -128,11 +129,13 @@ On an hourly basis there is an obvious imbalance between the demand of Octopus c
 
 And _this_ is what '100% Renewable' means!
 
+{% include related-page-fullsize-cards.html related_pages="159049 How does annual matching work?" text="
 It means that _over the course of a year_ a supplier is procuring enough renewable supply to satisfy their demand. Customers aren't being served renewable power at all times but - _on average_ - their consumption is met by an equivalent volume of renewable supply.
 
 Consumption on a calm night when there's no wind or solar is actually fossil-fueled but sometime later there'll be an abundance of wind and solar and, when aggregated annually, the total demand is equivalent to the total supply.
 
 The accounting is very approximate and at odds with the rest of the supply business and the physics of the grid which require instantaneous balance between supply and demand.
+"%}
 
 <!-- TODO
 This is unphysical since the grid must always be perfectly balanced, and it's unlike the other responsibilities of a supplier which are to ensure the supply/demand balance at all times.
@@ -140,46 +143,44 @@ This is unphysical since the grid must always be perfectly balanced, and it's un
 And it's confusing at best and misleading at worse but this is the standard that has been adopted by the sector and which has been allowed by the regulator.
 -->
 
-LINK - ANNUAL MATCHING
-
-## Does annual matching make sense?
+## Can we do better?
 Annual matching is simple and it was implemented a long time ago. It allowed a simple, hopeful message to be conveyed a large number of consumers who generally don't have much time for their energy supplier, and it was probably better than nothing.
 
 But, clearly, annual matching is an accounting trick which entirely disregards the physical challenge of running a highly renewable grid.
 
 It implies that solar power can trivially be consumed at night and that wind power can be magically shifted across seasons.
 
-Increasingly the decarbonisation of the grid depends, not just on more renewable power, but more renewable power at the right time. At some times of the year we already have _too much_ renewable power and the output of wind- and solar-farms needs to be curtailed [^curtailment]. And increasingly we need to focus on the conditions that are hard to decarbonise: when the wind doesn't blow and the sun doesn't shine.
+Increasingly the decarbonisation of the grid depends, not just on more renewable power, but more renewable power at the right time. At some times of the year we already have _too much_ renewable power and the output of wind- and solar-farms needs to be curtailed [^curtailment]. And increasingly we need to focus on the conditions that are hard to decarbonise: when the wind doesn't blow and the sun doesn't shine. Annual matching is flawed because it disregards these challenges.
+
+{% include related-page-cards.html related_pages=" 9bf586 A better yardstick " text="
+The better measure is how well a supplier matches supply with demand, hour by hour and day by day, in keeping with the way that the supply-sector usually works.
+"%}
 
 [^curtailment]: TODO, mention price cannibalisation
 
-## Can we do better?
+## The stakes
+{% include related-page-cards.html related_pages="2a0abe Why matching matters;" text="
 Suppliers are uniquely positioned to drive net-zero investments in that they render the needs and desires of end-consumers into power-procurement contracts.
 
 Consumers are increasingly conscious of the environmental footprint of their electricity supply - over a third of British homes are on green tariffs - and willing to pay for cleaner products. Some green tariffs fetch as much as a XX% premium and, as a whole, in the UK alone, green tariffs raise an extra £500M a year.
 
 Suppliers that serve environmentally conscious customers play an important role in signaling to the market the desire for low-carbon power. And for the signal to be well-directed, suppliers need to be measured against the right measures.
+" %}
+
+
 
 <!-- TODO: mention complacency as a risk -->
 <!-- TODO: mention opportunity to improve marketing integrity/transparency -->
 
-LINK - WHY DOES THIS MATTER
+## The cleanest suppliers
+{% include related-page-fullsize-cards.html related_pages=" 3b8dac Scoreboard; " text="
+Some suppliers are already experimenting with different ways of providing customers with more transparent, lower-carbon power and we support and promote these efforts.
+Matched is developing a scoreboard of low-carbon suppliers.
+"%}
 
-## A better yardstick
-Annual matching is flawed because it disregards the physical challenges of time-matching intermittent supply with consumer demand.
-
-The better measure is how well a supplier matches supply with demand, hour by hour and day by day, in keeping with the way that the supply-sector usually works.
-
-LINK - A BETTER YARDSTICK
-
-## Scoreboard
-Some suppliers are experimenting with different ways of providing customers more transparency and lower-carbon power, and the mission of the Matched initiative is to support and promote these efforts through our scoreboard of low-carbon suppliers.
-
-LINK - SCOREBOARD
 
 ## Footnotes
 <!-- TODO: add via an include statement -->
-
 
 
 
