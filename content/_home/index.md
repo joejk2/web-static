@@ -1,7 +1,7 @@
 # Matched
 
 <header><p class="post-desc fw-light mb-4">
-Clean electrification is essential to net-zero goals and yet there remains confusion about what constitutes 'clean'.
+Clean electrification is a prerequisite for net-zero goals and yet there remains confusion about what constitutes 'clean'.
 Matched is a not-for-profit initiative that develops transparent metrics, scores energy suppliers, and promotes the development of low-carbon energy plans.
 </p></header>
 

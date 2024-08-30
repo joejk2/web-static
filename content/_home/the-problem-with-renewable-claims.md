@@ -129,13 +129,11 @@ On an hourly basis there is an obvious imbalance between the demand of Octopus c
 
 And _this_ is what '100% Renewable' means!
 
-{% include related-page-fullsize-cards.html related_pages="159049 How does annual matching work?" text="
 It means that _over the course of a year_ a supplier is procuring enough renewable supply to satisfy their demand. Customers aren't being served renewable power at all times but - _on average_ - their consumption is met by an equivalent volume of renewable supply.
 
 Consumption on a calm night when there's no wind or solar is actually fossil-fueled but sometime later there'll be an abundance of wind and solar and, when aggregated annually, the total demand is equivalent to the total supply.
 
 The accounting is very approximate and at odds with the rest of the supply business and the physics of the grid which require instantaneous balance between supply and demand.
-"%}
 
 <!-- TODO
 This is unphysical since the grid must always be perfectly balanced, and it's unlike the other responsibilities of a supplier which are to ensure the supply/demand balance at all times.
@@ -152,40 +150,34 @@ It implies that solar power can trivially be consumed at night and that wind pow
 
 Increasingly the decarbonisation of the grid depends, not just on more renewable power, but more renewable power at the right time. At some times of the year we already have _too much_ renewable power and the output of wind- and solar-farms needs to be curtailed [^curtailment]. And increasingly we need to focus on the conditions that are hard to decarbonise: when the wind doesn't blow and the sun doesn't shine. Annual matching is flawed because it disregards these challenges.
 
-{% include related-page-cards.html related_pages=" 9bf586 A better yardstick " text="
 The better measure is how well a supplier matches supply with demand, hour by hour and day by day, in keeping with the way that the supply-sector usually works.
-"%}
 
 [^curtailment]: TODO, mention price cannibalisation
 
 ## The stakes
-{% include related-page-cards.html related_pages="2a0abe Why matching matters;" text="
 Suppliers are uniquely positioned to drive net-zero investments in that they render the needs and desires of end-consumers into power-procurement contracts.
 
 Consumers are increasingly conscious of the environmental footprint of their electricity supply - over a third of British homes are on green tariffs - and willing to pay for cleaner products. Some green tariffs fetch as much as a XX% premium and, as a whole, in the UK alone, green tariffs raise an extra £500M a year.
 
 Suppliers that serve environmentally conscious customers play an important role in signaling to the market the desire for low-carbon power. And for the signal to be well-directed, suppliers need to be measured against the right measures.
-" %}
 
 
 
 <!-- TODO: mention complacency as a risk -->
 <!-- TODO: mention opportunity to improve marketing integrity/transparency -->
 
+<!--
 ## The cleanest suppliers
-{% include related-page-fullsize-cards.html related_pages=" 3b8dac Scoreboard; " text="
 Some suppliers are already experimenting with different ways of providing customers with more transparent, lower-carbon power and we support and promote these efforts.
 Matched is developing a scoreboard of low-carbon suppliers.
-"%}
+-->
 
+## Related pages
+
+{% include test.html related_posts="159049-how-does-annual-matching-work,9bf586-a-better-yardstick,2a0abe-why-matching-matters,3b8dac-scoreboard"%}
 
 ## Footnotes
 <!-- TODO: add via an include statement -->
-
-
-
-
-
 
 
 

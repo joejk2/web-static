@@ -1,0 +1,24 @@
+<head>
+ <style>
+        .card-body {
+            background-color: #fafcfc;
+        }
+    </style>
+</head>
+
+{% assign posts = site.documents | where_exp: "post", "include.related_posts contains post.page_id"  %}
+
+  <nav class="row row-cols-1 row-cols-2 g-4 mb-4">
+    {% for post in posts %}
+      <article class="col">
+        <a href="{{ post.url | relative_url }}" class="post-preview card h-100">
+          <div class="card-body" style="card-bg: red">
+            <h4 class="pt-0 my-2">{{ post.title }}</h4>
+            <div class="text-muted">
+              <p>{% include post-description.html %}</p>
+            </div>
+          </div>
+        </a>
+      </article>
+    {% endfor %}
+  </nav>
