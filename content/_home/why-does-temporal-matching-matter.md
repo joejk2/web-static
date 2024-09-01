@@ -16,14 +16,15 @@ order: 3
 
 Though it might first appear to be a technical detail, temporal matching is very important for four reasons:
 
-## 1) Grid physics
+## Grid physics
 For the electrical grid to function supply and demand have to be continuously balanced, moment by moment, day by day.
 
 Certificate-based accounting cannot represent power-flow and the challenges of running a low-carbon, highly renewable grid until it is temporally matched.
 
 Energy suppliers are already responsible for temporally matching their positions in power markets so are constitutionally capable of temporally-matched certificates.
-
-## 2) Transparent marketing
+ initiative from some      energy suppliers themselves who are starting to offer temporally-matched power to commercial customers[^good-energy].
+ 67
+## Transparent marketing
 The power sector is complex and most consumers have very little time or interest for it and, as a result, would be entirely excused for assuming that tariffs branded "100% renewable" do - in actual fact - deliver power to their homes that is exclusively renewable at all times.
 
 Given this confusion there is a risk of broken trust and a backlash against all clean-power offers and already, there have been some high-profile repudiations of certificate-based claims[^repudiations].
@@ -32,44 +33,55 @@ Given this confusion there is a risk of broken trust and a backlash against all 
 
 The issue is not with certificates: they remain a good method for allowing renewable power to be distinguished from fossil-fueled power and sold on open, liquid markets. The issue is that certificates need to be temporally matched with demand.
 
-## 3) Market signals
+## Market signals
 Green tariffs have the potential to incentivise the development of renewable grid infrastructure: consumers pay a premium for cleaner power which, via certificates, accumulates to the investors behind renewable projects.
 
 A third of British homes are now paying roughly a 5% premium for a green tariff[^green-tariff-numbers] with a combined effect of of £500M/year which, ostensibly, funds renewable energy.
 
 But the growing consensus is that, as renewables become increasingly cost-competitive on unsubsidised terms, the current system does little to inform or incentivise new grid developments because the market signal is too weak and diffuse.
 
-Temporal-matching helps fix the issues by:
-- raising the bar, more differentiation, higher premium for a better product for those who choose it, and more returns to investors
-- informing where the money is spent: energy storage and flexibility 
-
-
-The fundamental issue is that, without temporal matching, there is no value to the timing of renewable generation.
-
-And yet, timing is increasingly the biggest challenge of grid decarbonisation: it is no longer simply a matter of generating more renewable energy but rather generating it at the _right time_[^curtailment].
+Part of the issue is that matching is too easy, and too cheap, without temporal matching. Increasingly grids face an _oversupply_ of renewables at certain times of the year[^curtailment] and the challenge is not just to produce renewable power, but to produce it at the _right time_.
 
 [^curtailment]: TODO
 
-With temporal matching
+Temporally-matched green tariffs would send a clearer market signal by:
+1. Raising the bar, allowing more differentiation between tariffs, and enabling the cleanest offers to charge a higher premium
+2. Incentivising the energy storage and load flexibility that are essential for the high penetration of renewable generation
 
-EnergyTag posts
+The same studies that demonstrate the inefficacy of green tariffs _without_ temporal matching also unanimously conclude that voluntary clean-power markets _with_ temporal matching would meaningfully and substantially influence grid investments[^energy-tag-additionality].
 
+[^energy-tag-additionality]: See [this literature review](https://energytag.org/impact-scientific-consensus-on-the-benefits-of-granular-accounting) from EnergyTag
 
-## 4) Urgency
+<!-- TODO: semantics: green tariffs -> voluntary low-carbon tariffs -->
+
+## Urgency
+Electricity already accounts for a third of global emissions and its consumption almost doubles under most net-zero scenarios. The imperative to decarbonise electricity is clear but the urgency is lost in vague and potentially misleading claims.
+
+If it really were the case that electricity could be fully decarbonised for just an extra 5% cost climate change would be much less of an issue.
+
+The metrics by which we judge clean power need to be clear, frank, and physical.
 
 ## The temporal movement
+Matched is part of a growing movement that is calling for the widespread adoption of temporal-matching.
 
-The movement
+Other champions of the movement include tech giants[^google-microsoft], independent non-profit groups[^energy-tag], and startups[^granular-energy] who provide temporal-matching software to the industry. Excitingly there is also initiative from some energy suppliers themselves who are starting to offer temporally-matched power to commercial customers[^good-energy].
+
+Our grids are changing fast and our practices need to change with them... <and it will be exciting to see where we end up>.
+
+[^google-microsoft]: Such as [Google and Microsoft](https://www.canarymedia.com/articles/clean-energy/google-and-others-have-committed-to-24-7-carbon-free-energy-what-does-that-mean)
+[^energy-tag]: Such as [Energy Tag](https://energytag.org/#top)
+[^granular-energy]: Such as [Granular Energy](https://www.granular-energy.com/)
+[^good-energy]: Such as [Good Energy](https://www.goodenergy.co.uk/business/insights/hourly-energy-matching-a-groundbreaking-service-for-good-energy-business-customers/)
+## Related pages
+{% include test.html related_posts="
+  9bf586-a-better-yardstick
+  3b8dac-scoreboard
+"%}
+
+## Footnotes
 
 
-
-## 3) Grid investments
-====================
-
-Urgency
-====================
-
-
+{% comment %}
 scratch
 ====================
 
@@ -121,3 +133,4 @@ The movement:
 - Granular Energy, Flexidao
 - Google
 - ... and Matched
+{% endcomment %}

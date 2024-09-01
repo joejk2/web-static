@@ -54,7 +54,7 @@ The bigger challenges to suppliers' claim are that (a) the grid must be balanced
 ![Grid Balancing](/home/assets/grid-balancing.png){: w="450" h="300" .right}\
 The grid must be in perfect equipoise at all moments, hour by hour, second by second. Whatever is consumed from the grid must be met in equal and simultaneous measure by the generators that feed the grid.
 
-A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a specific height: what is withdrawn must be immediately replaced.
+A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a particular height: whatever water is withdrawn must be immediately replaced.
 
 [^voltage-water]: Where the height of the water in the reservoir represents the voltage of the grid
 
