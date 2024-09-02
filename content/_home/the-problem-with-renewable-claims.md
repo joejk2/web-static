@@ -55,17 +55,19 @@ The bigger challenges to suppliers' claim are that (a) the grid must be balanced
 ![Grid Balancing](/home/assets/grid-balancing.png){: w="450" h="300" .right}\
 The grid must be in perfect equipoise at all moments, hour by hour, second by second. Whatever is consumed from the grid must be met in equal and simultaneous measure by the generators that feed the grid.
 
-A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a particular height: whatever water is withdrawn must be immediately replaced.
+A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a particular height: whenever water is withdrawn must be instantaneously replaced by exactly the same volume.
 
 [^voltage-water]: Where the height of the water in the reservoir represents the voltage of the grid
 
 The grid is intricately balanced by a combination of power markets, automatic micro-adjustments by generators, and direct intervention by National Grid. Even slight imbalances can lead to equipment failure, brown-outs, and blackouts.
 
-**The intermittency of renewables**
-![Intermittency of renewables](/home/assets/missing.png){: w="450" h="300" .right}\
+**The intermittency of renewables**\
 And yet the sun doesn't always shine and the wind doesn't always blow!
 
 So, in order for the grid to remain balanced, when there's a scarcity of wind and solar power it must be met by 'firm supply' which, currently, is predominantly gas-powered power plants.
+
+![Intermittency of renewables](/home/assets/fractional-grid-mix.png){: w="800" h="533"}
+_The fraction of the grid that is gas-powered (grey) depends substantially on the output from wind farms (green)_
 
 <br>
 ## Flexibility
@@ -81,7 +83,7 @@ Flexibility is essential for the deep decarbonisation of the grid, but we curren
 
 The number of batteries on the grid has grown from essentially nothing to XX over the last five years and numbers are expected to triple again in the next couple of years, but the total capacity is still tiny when compared to the rest of the grid.
 
-![Flexibility versus consumption](/home/assets/missing.png){: w="450" h="300" .right}
+![Flexibility versus consumption](/home/assets/fractional-grid-mix-aggregated.png){: w="450" h="300" .right}
 We don't yet have enough batteries to shift even 1% of our daily usage, let alone to move wind energy from a windy week to a still week or solar energy from the summer to the winter.
 
 Our ability to flex demand will increase as our homes are electrified, and much of it will be done in the background, without us noticing, by smart-devices that respond to grid signals.
