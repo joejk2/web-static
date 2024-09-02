@@ -9,9 +9,9 @@ comments: false
 toc: true
 refactor: true
 order: 3
-=image:
-  path:
-  lqip: data:image/webp;base64,
+image:
+  path: /home/assets/hour-of-year-preview.png
+  lqip: data:image/webp;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAA9UlEQVR4nC3DWVLcQBAE0Kylu6VZOAPH51Q+AQEOkMWMWpXJj1/Esz9vr0fDz7B99X3Ys3mFwSyKbao/tT60PrkeGqe6lHv4w30z+1Zs9Ef5KRcQZC8M8gLevGbwCpLKr8w9/K/Fp/LrjF0+zQG41EuLeEe9+HnkSasSc0v/9vjw9q72yfynmDDBQmzUKu44p7sDzeVSzvDD/Md8R2yMzfKQCUh4l4hqpgt4uE9ZAekuAxwA9D9ggAFuSimNDUoooQCyQ904jItxAadVmAHo0Kq6o15QN9VVtYoDzC4NcIDDuaCmWZgZNMCreGfddd50XlSL2MVfIX2ozaLIFREAAAAASUVORK5CYII=
 ---
 
 Though it might first appear to be a technical detail, temporal matching is very important for four reasons:
@@ -66,12 +66,18 @@ Matched is part of a growing movement that is calling for the widespread adoptio
 
 Other champions of the movement include tech giants[^google-microsoft], independent non-profit groups[^energy-tag], and startups[^granular-energy] who provide temporal-matching software to the industry. Excitingly there is also initiative from some energy suppliers themselves who are starting to offer temporally-matched power to commercial customers[^good-energy].
 
+![The hourly view](/home/assets/hour-of-year.png){: w="800" h="533" .right}
+_An hour-by-hour view of the carbon intensity of a Californian generation portfolio that is volumetrically matched[^peninsula-clean-energy]._
+
+[^peninsula-clean-energy]: Peninsula Clean Energy: ["Achieving 24/7 renewable energy by 2025"](https://www.peninsulacleanenergy.com/wp-content/uploads/2023/01/24-7-white-paper-2023.pdf)
+
 Our grids are changing fast and our practices need to change with them... <and it will be exciting to see where we end up>.
 
 [^google-microsoft]: Such as [Google and Microsoft](https://www.canarymedia.com/articles/clean-energy/google-and-others-have-committed-to-24-7-carbon-free-energy-what-does-that-mean)
 [^energy-tag]: Such as [Energy Tag](https://energytag.org/#top)
 [^granular-energy]: Such as [Granular Energy](https://www.granular-energy.com/)
 [^good-energy]: Such as [Good Energy](https://www.goodenergy.co.uk/business/insights/hourly-energy-matching-a-groundbreaking-service-for-good-energy-business-customers/)
+
 ## Related pages
 {% include related-pages-small-cards.html related_posts="
   9bf586-a-better-yardstick
