@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-spinner
+icon: fas fa-share-nodes
 order: 3
 ---
 <!-- Begin Brevo Form -->

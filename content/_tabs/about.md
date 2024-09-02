@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-envelope
+icon: fas fa-people-group
 order: 4
 ---
 
