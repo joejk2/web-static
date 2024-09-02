@@ -67,7 +67,7 @@ However, in order to provide a clear market signal, certificates need to be temp
 
 ## Related Pages
 
-{% include test.html related_posts="
+{% include related-pages-small-cards.html related_posts="
   9bf586-a-better-yardstick
   2a0abe-why-matching-matters
   3b8dac-scoreboard

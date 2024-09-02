@@ -73,7 +73,7 @@ Our grids are changing fast and our practices need to change with them... <and i
 [^granular-energy]: Such as [Granular Energy](https://www.granular-energy.com/)
 [^good-energy]: Such as [Good Energy](https://www.goodenergy.co.uk/business/insights/hourly-energy-matching-a-groundbreaking-service-for-good-energy-business-customers/)
 ## Related pages
-{% include test.html related_posts="
+{% include related-pages-small-cards.html related_posts="
   9bf586-a-better-yardstick
   3b8dac-scoreboard
 "%}

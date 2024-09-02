@@ -139,7 +139,7 @@ So moving from annualised accounting to proper, half-hourly accounting raises th
 -->
 
 ## Related pages
-{% include test.html related_posts="
+{% include related-pages-small-cards.html related_posts="
   453e05-how-we-calculate-matching-scores
   3b8dac-scoreboard
   159049-how-does-annual-matching-work
