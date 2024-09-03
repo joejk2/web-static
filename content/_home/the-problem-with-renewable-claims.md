@@ -14,156 +14,144 @@ image:
   lqip: data:image/webp;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAIABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2yfUADiov7Q+Xiiisn/FRHM+U/9k=
 ---
 
-Over the last decade it has become increasingly common for suppliers to compete for environmentally-conscious customers by marketing their electricity as "100% renewable" and about a third of British homes are now on these 'green tariffs'.
+Over the last decade it has become increasingly common for electricity suppliers to compete for environmentally-conscious customers by marketing their electricity as "100% renewable" and about a third of British homes are now on these renewable offers.
 
 But what does "100% Renewable" mean?
 
-What it strongly _implies_ is that all electricity consumed is, at all times, directly supplied from a wind farm, solar farm, or some other renewable source like hydroelectric or renewable biomass. This is a simple and compelling image and one that the vast majority of people, who spend very little time thinking about it, will accept at face-value.
+What it strongly _implies_ is that all electricity consumed is that electricity is _exclusively_ renewable and that, at all times, all consumption is directly delivered from a wind farm, solar farm, or some other renewable source like hydroelectric or renewable biomass. This is a simple and compelling image and one that the vast majority of people, who spend very little time thinking about it, will accept at face-value.
 
 But can it be true that a third of British homes are really getting renewable electricity all the time?
 
-Wasn't grid-decarbonisation meant to be a huge challenge? Isn't renewable generation inherently intermittent? What about on a cold, still night when there's no solar or wind energy but we're at home with the lights and TVs on?
+Isn't decarbonisation a huge challenge? Isn't renewable generation inherently intermittent? What about on a cold and still night when there's no solar or wind energy but we're all at home with the lights on?
 
 Does the claim stack up?
 
 ## There's only one grid
 The first charge that could be leveled against the claim is that there is only one electrical grid, one set of wires.
 
-Electricity generators contribute their power into the grid and consumers indiscriminately withdraw from it. At the physical level there is no need - nor any means - to determine where power came from or where it's going.
+Electricity generators indiscriminately feed their power into the grid and consumers indiscriminately draw from it. At the physical level there is no need, nor any means, to determine where power came from or where it's going. No one customer is any more connected to a wind- or solar-farm than any other customer.
 
-No one customer is any more connected to a wind- or solar-farm than any other customer.
-
-## Contractual provenance
+**Contractual provenance**\
 ![Supplier balancing](/home/assets/grid-balancing-supplier.png){: w="450" h="300" .right}
 
-However, physics notwithstanding, at a _contractual level_ customers can meaningfully own the power from wind- or solar-farms by virtue of the supplier they choose.
+However, wires aside, there is a deep and meaningful _contractual_ connection between generators and consumers, and this contractual framework underpins the electrical grid and entire power sector.
 
-The role of the supplier is to balance supply and demand: for every unit of power they sell to consumers they must be contracted to buy a unit of power from a generator. hey must also pay for the distribution of their power over the grid.
+The of the electricity supplier, such as Octopus and Ecotricity, is to balance the supply of power from generators with the demand of their customers. For every unit of power they sell to their customers they must buy unit of power from a generator and pay for the distribution of that power over the grid. Suppliers that don't adequately contain the risk of imbalance and the market exposure it creates are at risk of insolvency[^insolvency].
 
-The contractual balance of supply and demand underpins the energy sector and is critical to the health of the electrical grid. When suppliers underestimate demand they need to buy power on the spot market and, similarly, when demand is overestimated suppliers need to sell. Suppliers that don't adequately manage the risk of an imbalance between supply and demand risk of insolvency[^insolvency].
+[^insolvency]: It was unhedged imbalance that caused the failure of several GB suppliers after the onset of the 2022 war in the Ukraine.
 
-[^insolvency]: It was because of unhedged imbalance that why many suppliers went bankrupt in the UK after the onset of the Ukrainian war in 2022.
+The continuous contractual balancing of supply and demand underpins the entire power sector and is critical to the physical stability of the grid.
 
-So, although it is indeed that case that power doesn't physically flow from a specific generator to a specific consumer, there is a very real contractual connection and this connection underpins the entire sector.
+So, although it is indeed that case that there's no physical connection between a specific generator and a specific consumer, there is a very real contractual connection which defines the entire sector.
 
-If your supplier is genuinely procuring renewables on your behalf then your power is contractually and genuinely clean.
+Customers who make a point of choosing a supplier who has contracted a lot of renewable generation have, in a very real sense, funded the purchase of that specific power.
 
 ## Handling intermittency
-The bigger challenges to suppliers' claim are that (a) the grid must be balanced at all times and that (b) renewables are intermittent.
+The bigger challenge to suppliers' claims are that the grid must be balanced at all times but renewables are intermittent.
 
 **Grid balancing**
 ![Grid Balancing](/home/assets/grid-balancing.png){: w="450" h="300" .right}\
-The grid must be in perfect equipoise at all moments, hour by hour, second by second. Whatever is consumed from the grid must be met in equal and simultaneous measure by the generators that feed the grid.
+The grid must be in perfect equipoise at all moments, hour by hour, second by second. Whatever is consumed from the grid must be delivered in equal and simultaneous measure by the generators that feed the grid.
 
-A reasonable analogy[^voltage-water] is a reservoir of water that must always be at a particular height: whenever water is withdrawn must be instantaneously replaced by exactly the same volume.
+A reasonable analogy is a reservoir of water that must always be at a constant height[^voltage-water]: whenever water is withdrawn must be instantaneously replaced by exactly the same volume.
 
 [^voltage-water]: Where the height of the water in the reservoir represents the voltage of the grid
 
-The grid is intricately balanced by a combination of power markets, automatic micro-adjustments by generators, and direct intervention by National Grid. Even slight imbalances can lead to equipment failure, brown-outs, and blackouts.
+The grid is intricately balanced by a combination of power markets, small automated adjustment of generators, and by the direct intervention by National Grid. Even slight imbalances can lead to equipment failure, brown-outs, and blackouts.
 
 **The intermittency of renewables**\
 And yet the sun doesn't always shine and the wind doesn't always blow!
 
-So, in order for the grid to remain balanced, when there's a scarcity of wind and solar power it must be met by 'firm supply' which, currently, is predominantly gas-powered power plants.
+So in order for the grid to remain balanced when there's a scarcity of wind and solar power we depend upon 'firm supply', which currently mostly means gas-powered generators.
 
 ![Intermittency of renewables](/home/assets/fractional-grid-mix.png){: w="800" h="533"}
-_The fraction of the grid that is gas-powered (grey) depends substantially on the output from wind farms (green)_
+_The fraction of the grid that is gas-powered (in grey) is directly and inversely correlated to the fraction that is from wind (in green)_
 
-<br>
 ## Flexibility
-Long-term we need to be able to work around the intermittency of renewable generation by:
+In the long term we need to be able to work around the intermittency of renewable generation by:
 
-1. **Flexing supply (generation)** by charging batteries when renewables are abundant and discharging them when they are scarce
-
-2. **Flexing demand (consumption)** by discounting power when renewables are abundant to incentivise consumers to shift their consumption (schemes like the [agile tariff from Octopus](https://octopus.energy/smart/agile/) already do this)
+1. **Flexing supply** by charging batteries when renewable power is abundant, and discharging them when they are scarce
+2. **Flexing demand** by discounting the price of power to incentivise customers to shift consumption to when renewables are abundant (offers like the [agile tariff from Octopus](https://octopus.energy/smart/agile/) already do this)
 
 ![Matching supply and demand](/home/assets/solar-matching-flexibility-annotation.png){: w="800" h="400"}
 
 Flexibility is essential for the deep decarbonisation of the grid, but we currently don't have very much of it.
 
-The number of batteries on the grid has grown from essentially nothing to XX over the last five years and numbers are expected to triple again in the next couple of years, but the total capacity is still tiny when compared to the rest of the grid.
-
 ![Flexibility versus consumption](/home/assets/fractional-grid-mix-aggregated.png){: w="450" h="300" .right}
-We don't yet have enough batteries to shift even 1% of our daily usage, let alone to move wind energy from a windy week to a still week or solar energy from the summer to the winter.
+The number of batteries on the grid has grown dramatically over the last five years and numbers are expected to triple in the next couple of years but the total capacity is still tiny when compared to the rest of the grid.
 
-Our ability to flex demand will increase as our homes are electrified, and much of it will be done in the background, without us noticing, by smart-devices that respond to grid signals.
+Our ability to flex demand will increase as our homes are electrified but, at the end of the day, power is a cheap commodity and most demand will be fairly inelastic[^flexibility].
 
-However, power remains a cheap commodity, life is busy, convenience is king, and so most consumption will remain fairly inflexible. The value of demand flexibility will mostly be during the few hours of the year when the grid is most stretched - for example very cold evenings when the wind isn't blowing.
+[^flexibility]: As homes and economies increasingly electrify and digitise there will be more and more opportunity for automated, unobtrusive demand shifting. However, power is normally very cheap and so most consumption is fairly inelastic. The value of demand flexibility will mostly be during the few hours of the year when the grid is most stretched, such as very cold evenings when the wind isn't blowing.
 
-In order for our grid to function with a high penetration of renewables we need a lot more flexibility[^fuel-mix].
+So, we need energy storage and load flexibility but we don't currently have anywhere near the capacity to meaningful handle the intermittency of renewables[^fuel-mix].
 
-[^fuel-mix]: there are other 'firm' renewables: pumped hydro and renewable biofuel
+[^fuel-mix]: We also need 'firm' carbon-free generators renewable biomass, hydroelectric, and nuclear.
 
 <!-- Indeed, this is one of the reasons why it is so important that consumers understand what they are getting from the "100% renewable" offers. If power isn't already genuinely decarbonised it needs to be - pronto - with a lot more renewables and flexibility. And suppliers play a crucial role in rendering the preferences and payments of environmentally conscious customers into new grid infrastructure (more on this in future posts). <!-- TODO: add link -->
 
 ## Not as it first appears
-We've established that it is reasonable for suppliers to market renewable power based on the power they have procured for their customers: though all power is mixed on the grid there is a real contractual provenance (which underpins the balancing of the entire power sector).
+We've established that suppliers can and should market their power as renewable if they've contracted its generation but that it would be very difficult - impossible even - for a supplier to perfectly match their renewable supply to their consumers' demand. Renewables are intermittent and the grid is currently inflexible!
 
-However, we've also established that it would be very difficult, impossible even, for a supplier to perfectly match their renewable supply with their consumers' demand. Renewables are intermittent and both generation and consumption are currently very inflexible!
+Renewable offers generally come at just a 5% premium compared to normal, undifferentiated power and yet it would be _inordinately_ expensive for a supplier to guarantee that all consumption is at all times met by renewable generation.
 
-With current grid infrastructure it would be inordinately expensive for suppliers guarantee that all consumption is at all times met by renewable supply[^green-premium], and it is totally implausible that a third of British homes consume electricity that is exclusively renewable.
-
-[^green-premium]: Whereas the premium for a green tariff is generally only 5%
-
-So, "100% renewable" cannot mean that that all consumption is at all times supplied by renewable generation.
+So, "100% renewable" cannot mean _exclusively_ renewable.
 
 ## A definitive view
-We can use public data sources to get a definitive view of what suppliers are selling.
+With public data we can assemble a definitive view of what British suppliers are selling their customers.
 
 This methodology has been developed by Matched with contributions from experts in the field: our code [is open-source](https://github.com/matched-energy/scores) and our approach will be described in detail in a future post.
 
-We'll dig into the situation at Octopus since they are one of the largest suppliers that markets their electricity as exclusively renewable. The results for other suppliers are shown on the [scoreboard](/scoreboard).
+We'll dig into the situation at Octopus since they are one of the largest suppliers that markets their electricity as renewable; the results for other suppliers are shown on the [scoreboard](/scoreboard).
 
-<!-- TODO: add labels to charts and make prettier -->
-![Octopus imbalance in May](/home/assets/octopus-imbalance-may-2022.png){: w="800" h="500"}
-_The supply / demand balance at Octopus in May 2022: the filled curves show renewable supply and demand is shown by the black line_
+<!-- TODO: labels to charts and make prettier -->
+![Octopus imbalance in May](/home/assets/octopus-half-hourly-may-2022.png){: w="800" h="500"}
+_The aggregate demand of Octopus customers versus the contracted generation_
 
-This chart mostly makes sense: demand is lowest in the early morning and highest in the evening. The supply is mostly from wind which is sporadic, but there's also a fair amount of solar which has a daily period.
+The chart shows that demand is lowest in the early morning and highest in the evening; the supply is mostly from wind which is sporadic but there's also a fair amount of solar which has a daily periodicity.
 
-What is immediately clear is that supply and demand are _not_ synchronised: in the beginning of the month demand exceeds supply whereas later in the month the converse is true.
+What is immediately clear is that supply and demand aren't matched at all times: on the 7th and 8th supply never meets the demand whereas on the 10th and 11th it always exceeds it.
 
-![Octopus imbalance in October and November](/home/assets/octopus-imbalance-oct-nov-2022.png){: w="550" h="320" .right}
-The situation later in the year is similar: in October there is a surplus of wind and supply exceeds demand whereas in November there is much less wind and demand exceeds supply.
+![Octopus imbalance in October and November](/home/assets/octopus-half-hourly-oct-nov-2022.png){: w="450" h="300" .right}
+Later in the year the situation is similar: in October there is a surplus of wind and supply exceeds demand whereas in November there's much less wind supply rarely meets demand.
 
-The pattern repeats throughout the year: sometimes exceeds demand and demand sometimes exceeds supply. There is no balance between supply and demand.
+The pattern repeats throughout the year - there is a temporal mismatch between supply and demand.
 
-## Annual matching
-On an hourly basis there is an obvious imbalance between the demand of Octopus customers and the supply of renewables that have been procured on their behalf. But, as it turns out, the supply and demand when aggregated over all hours and days of the year are the same!
+<br>
+## Volumetric matching
+On an hourly basis there is an obvious imbalance between the demand of Octopus customers and the supply of renewables that have been procured on their behalf. But, when aggregated over the hours of the year the total volumes of supply and demand are the same!
 
-And _this_ is what '100% Renewable' means!
+And this is what '100% Renewable' means!
 
-It means that _over the course of a year_ a supplier is procuring enough renewable supply to satisfy their demand. Customers aren't being served renewable power at all times but - _on average_ - their consumption is met by an equivalent volume of renewable supply.
+It means that over the course of a year the volume of renewable energy a supplier buys is equal to the volume of energy that its customers consume.
+Customers aren't being served renewable power at all times but, on average, over the course of a year, their consumption is offset by an equivalent volume of renewable supply.
 
-Consumption on a calm night when there's no wind or solar is actually fossil-fueled but sometime later there'll be an abundance of wind and solar and, when aggregated annually, the total demand is equivalent to the total supply.
+Power consumed when there's not much wind or solar power will actually be predominantly fossil-fueled but sometime later there'll be an abundance of wind and solar and, when aggregated, supply matches demand.
+
+This accounting practice reflects neither power flow nor the physical challenges of running a low-carbon grid.
+Moreover it is at odds with the rest of the supply business which maintains a continuous, temporal balance between supply and demand.
 
 The accounting is very approximate and at odds with the rest of the supply business and the physics of the grid which require instantaneous balance between supply and demand.
 
-<!-- TODO
-This is unphysical since the grid must always be perfectly balanced, and it's unlike the other responsibilities of a supplier which are to ensure the supply/demand balance at all times.
-
-And it's confusing at best and misleading at worse but this is the standard that has been adopted by the sector and which has been allowed by the regulator.
--->
-
 ## Can we do better?
-Annual matching is simple and it was implemented a long time ago. It allowed a simple, hopeful message to be conveyed a large number of consumers who generally don't have much time for their energy supplier, and it was probably better than nothing.
+Volumetric matching is simple and old.
+It allowed a simple, hopeful message to be conveyed a large number of consumers who generally don't have much time for their energy supplier, and it was probably better than nothing[^confusion].
 
-But, clearly, annual matching is an accounting trick which entirely disregards the physical challenge of running a highly renewable grid.
+[^confusion]: Though volumetric matching has caused a lot of confusion
 
-It implies that solar power can trivially be consumed at night and that wind power can be magically shifted across seasons.
+And, even ten years ago, the practice was much more reasonable: when renewables were still a very small fraction of the grid-mix it really was a challenge for a supplier to just get _volume_.
 
-Increasingly the decarbonisation of the grid depends, not just on more renewable power, but more renewable power at the right time. At some times of the year we already have _too much_ renewable power and the output of wind- and solar-farms needs to be curtailed [^curtailment]. And increasingly we need to focus on the conditions that are hard to decarbonise: when the wind doesn't blow and the sun doesn't shine. Annual matching is flawed because it disregards these challenges.
+But these days renewables are increasingly competitive with fossil-fueled generation, volume is abundant, and the new challenge is _timing_.
 
-The better measure is how well a supplier matches supply with demand, hour by hour and day by day, in keeping with the way that the supply-sector usually works.
+It is no longer meaningful to treat solar power as though it can be trivially consumed at night, or wind power as though it can be shifted across seasons.
 
-[^curtailment]: TODO, mention price cannibalisation
+Instead we need new metrics that acknowledge the challenges of matching supply and demand in time, and which remind us how far we really are from having power that is exclusively renewable. And we need to reward the practices and suppliers that do the most to decarbonise power the fastest.
 
-## The stakes
-Suppliers are uniquely positioned to drive net-zero investments in that they render the needs and desires of end-consumers into power-procurement contracts.
+And the urgency is real since we increasingly often have an oversupply of renewables which leads to price cannibalization for, and curtailment of, renewable power[^oversupply].
 
-Consumers are increasingly conscious of the environmental footprint of their electricity supply - over a third of British homes are on green tariffs - and willing to pay for cleaner products. Some green tariffs fetch as much as a XX% premium and, as a whole, in the UK alone, green tariffs raise an extra £500M a year.
+[^oversupply]: TODO
 
-Suppliers that serve environmentally conscious customers play an important role in signaling to the market the desire for low-carbon power. And for the signal to be well-directed, suppliers need to be measured against the right measures.
-
+The accounting practices behind renewable claims need to be updated to respect the challenge of temporally matching renewable supply with consumer demand. 
 
 
 <!-- TODO: mention complacency as a risk -->
