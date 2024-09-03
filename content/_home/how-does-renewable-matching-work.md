@@ -2,7 +2,7 @@
 layout: post
 page_id: 159049
 title: How does renewable matching work?
-description: ....
+description: How does the industry track the generation and consumption of renewable energy?
 permalink: /:title
 date: 2019-08-08 11:33:00 +0000
 last_modified_at: 2024-08-15 11:33:00 +0000
@@ -11,62 +11,62 @@ comments: false
 toc: true
 refactor: true
 order: 0.1
-=image:
-  path: /home/assets/solar-matching-preview.jpg
-  lqip: data:image/webp;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAIABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD2yfUADiov7Q+Xiiisn/FRHM+U/9k=
+image:
+  path: /home/assets/certificate-matching-preview.png
+  lqip: data:image/webp;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAAfElEQVR4nF2QQQ7DMAgEZyP//79VG6YHHDuJDxYCBnbJ7/sBAUgSiHD9WmqdVVapytDu5sIgM1yFEBIhOFYWskG1gZ4XIFGSsfsyA/f416KgIzl4vkTNrXFJFhg5boBPM07z1ko6cinZLuzl7WV7UvUFzPOifZopxEYU/AP03FzbcIMmFwAAAABJRU5ErkJggg==
 ---
+Power is a commodity and is traded on markets that don't track the origin or carbon-intensity of power. Generators feed their power onto a high-voltage grid that serves an entire nation and from which end-users consume indiscriminately.
 
-Power is a commodity that is traded in markets that don't track the origin of power. Generators feed their power onto high-voltage grids that serves entire nations, and from which end-users consume indiscriminately.
-
-So how then do we track the origin of a suppliers' power and the degree to which it is renewable?
+So how then can we track the origination of a suppliers' power and the degree to which it is renewable?
 
 
 ## Renewable certificates
-Since power markets don't track the origination of power, a separate mechanism is necessary.
+Since power markets treat all power as a fungible commodity a separate mechanism is necessary to track power that is specifically from renewable generators.
 
-The general solution adopted worldwide is to issue a 'certificate' for every unit of energy[^MWh] that is generated from a renewable source, and to track these certificates in a centralised, regulated database[^rego-register]. The certificates are called _Renewable Energy Guarantees of Origin_ in Britain, _Guarantees of Origin_ in the EU, and _Renewable Energy Certificates_ in the US.
+The general solution adopted in many regions around the world is to issue a 'certificate' for every unit of energy that is generated from a renewable source and to track these certificates in a centralised, regulated database[^rego-register].
+The certificates are called _Renewable Energy Guarantees of Origin_ in Britain, _Guarantees of Origin_ in the EU, and _Renewable Energy Certificates_ in the US.
 
-[^MWh]: Registers generally work in increments of megawatt-hours (MWh)
+[^rego-register]: Generally the units are megawatt-hours (MWh) and in the UK certificates are tracked by the [Ofgem Renewables and CHP Register](https://renewablesandchp.ofgem.gov.uk)
 
-[^rego-register]: In the UK certificates are tracked by the [Ofgem Renewables and CHP Register](https://renewablesandchp.ofgem.gov.uk)
-In order to offer renewable power to customers, a supplier must buy a renewable certificate for each unit of power that they serve. Trading is often done through intermediaries but the end-effect is that renewable generators sell certificates and suppliers buy them.
+![The certificate matching process](/home/assets/certificate-matching.png){: w="450" h="300" .right}
+In order to offer renewable power to customers a supplier must buy commoditized power from the power markets and, in a separate market, an equal volume of renewable certificates.
 
-![The certificate matching process](/home/assets/certificate-matching.png)
-_Renewable power is sold in wholesale markets and separately tracked in a certificate registry - suppliers buy from each market separately."_
+Trading is often done through intermediaries but the result is that consumers, via their supplier and certificates, are buying the 'renewableness' characteristic of power from the generators that produce it.
 
-## Representing power-flow
-In order for renewable certificates to closely represent the flow of power to end-consumers they must be:
+## Representing power flow
+In order for certificate-based accounting to faithfully track the flow of renewable power on the grid they must be:
 
 1. Volumetrically matched
-: Most obviously, for energy that is sold as entirely renewable there needs to be a certificate for every unit of energy that is sold to end-consumers: a supplier that serves customers a terawatt-hour of energy needs a terawatt-hour of renewable certificates.
+: For offers of power that is '100% renewable' there needs to be a certificate for every unit of energy that is sold to end-consumers: a supplier that serves a terawatt-hour of energy needs a terawatt-hour of renewable certificates.
 
 2. Locationally matched
-: Certificates need to be bought from generators that are on the same electrical grid as the consumers: generators are irrelevant unless physically connected to consumers.
+: Certificates need to be bought from generators that are on the same electrical grid as the consumers: it cannot be consumed otherwise[^offsets].
+
+[^offsets]: Buying generation on a different grid might be a valuable carbon offset but this is distinct goal from the decarbonisation of power.
 
 3. Temporally matched
-: The certificates purchased must be from generators that were producing power at the same time as it was being consumed by customers: the grid depends on supply and demand being balanced at all times.
+: Certificates purchased must be from generators that were producing power at the right time: the grid depends on supply and demand being balanced at all times.
 
 ## Current practice
-The current practice amongst suppliers who offer '100% renewable energy' is to buy certificates that match demand volumetrically and locationally, but not temporally[^annual-matching].
+The current practice amongst suppliers who offer renewable power is to buy certificates that are volumetrically and locationally, but not temporally, matched with demand[^annual-matching].
 
-[^annual-matching]: Or, at best, to buy certificates within the same _year_ as demand, which is a a far-cry from the half-hourly period (or less) on which power markets settle.
+[^annual-matching]: Or to require that certificates are volumetrically matched within the same year as consumption.
 
-This is at odds with grid-physics and the challenges of deep decarbonisation.
+The importance of temporal matching and the reasons why accounting practices should be updated to include it are discussed [here](a-better-yardstick)[^non-temporal-offsetting].
 
-_(<u>Aside:</u>: this practice is actually really just an offsetting scheme since it allows certificates bought at one time to offset consumption at another time.)_
+[^non-temporal-offsetting]: Non-temporal matching is really just another form of offsetting since it allows certificates bought at one time to offset consumption at another.
 
-## The temporal movement
-The Matched initiative is part of a growing movement that calls for temporal-matching to be adopted by the industry in order to increase the transparency of green tariffs and their impact on grid investments.
-
+The Matched initiative is part of a
+[growing movement](why-does-temporal-matching-matter)
+that calls for temporal-matching to be adopted by the industry in order to increase the transparency of renewable offers and the impact they have on grid investments.
 Our [scoreboard](/scoreboard) rates suppliers on their temporal matching and, even amongst those with green tariffs, identifies notable differences between suppliers.
 
 ## Conclusion
-Certificates are a good mechanism for tracing the generation and consumption of renewable energy and distinguishing it from fossil-fueled energy: they allow suppliers to offer cleaner power to the customers and they incentivise the development of new renewable infrastructure.
+Certificates are a good mechanism for tracing the generation and consumption of renewable energy and they allow suppliers to offer cleaner power to customers.
 
-However, in order to provide a clear market signal, certificates need to be temporally matched with demand.
+However, in order to faithfully represent power flows and to motivate investments in low-carbon infrastructure, certificates need to be temporally matched with the demand they serve.
 
 ## Related Pages
-
 {% include related-pages-small-cards.html related_posts="
   9bf586-a-better-yardstick
   2a0abe-why-matching-matters
