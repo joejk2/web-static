@@ -20,18 +20,24 @@ We focus on the **supply-business** which procures electricity on behalf of comm
   9bf586-a-better-yardstick
   2a0abe-why-matching-matters
 " %}
+<br>
+{% include related-pages-small-cards.html related_posts="
+  159049 How does renewable matching work?
+  453e05 How we calculate matching scores
+" %}
 
 <br>
 {% include matched-lines-break.html %}
 <br>
 
-# Supplier Scoreboard
-{% include related-pages-small-cards.html related_posts="
-  453e05 How we calculate matching scores
-  4431fc Matching Metrics Defined
-" %}
 
+
+# Supplier Scoreboard
 {% include related-pages-big-cards.html related_posts="
   3b8dac Scoreboard
 " %}
+{% include related-pages-small-cards.html related_posts="
+  4431fc Matching Metrics Defined
+" %}
+
 
