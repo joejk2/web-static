@@ -10,7 +10,7 @@ home_card: true
 comments: false
 toc: true
 refactor: true
-image:
+=image:
   path: /home/assets/solar-matching-preview.jpg
   lqip: data:image/webp;base64,
 ---
