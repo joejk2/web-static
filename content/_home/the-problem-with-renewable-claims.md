@@ -3,7 +3,7 @@ layout: post
 page_id: ab96ed
 title: The problem with renewable claims
 description: Many suppliers market themselves as completely renewable but how justifiable is this?
-permalink: /:title
+permalink: /:slug
 home_card: true
 comments: false
 toc: true
@@ -151,7 +151,7 @@ And the urgency is real since we increasingly often have an oversupply of renewa
 
 [^oversupply]: TODO
 
-The accounting practices behind renewable claims need to be updated to respect the challenge of temporally matching renewable supply with consumer demand. 
+The accounting practices behind renewable claims need to be updated to respect the challenge of temporally matching renewable supply with consumer demand.
 
 
 <!-- TODO: mention complacency as a risk -->

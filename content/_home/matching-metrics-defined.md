@@ -3,7 +3,7 @@ layout: post
 page_id: 4431fc
 title: Matching Metrics Defined
 description: TODO
-permalink: /:title
+permalink: /:slug
 home_card: false
 comments: false
 toc: true

@@ -3,7 +3,7 @@ layout: post
 page_id: 9bf586
 title: A better yardstick
 description: How well do suppliers score against more rigorous measures?
-permalink: /:title
+permalink: /:slug
 date: 2019-08-08 11:33:00 +0000
 last_modified_at: 2024-08-15 11:33:00 +0000
 home_card: true
