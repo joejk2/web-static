@@ -57,7 +57,7 @@ The importance of temporal matching and the reasons why accounting practices sho
 [^non-temporal-offsetting]: Non-temporal matching is really just another form of offsetting since it allows certificates bought at one time to offset consumption at another.
 
 The Matched initiative is part of a
-[growing movement](why-does-temporal-matching-matter)
+[growing movement](why-temporal-matching-matters)
 that calls for temporal-matching to be adopted by the industry in order to increase the transparency of renewable offers and the impact they have on grid investments.
 Our [scoreboard](/scoreboard) rates suppliers on their temporal matching and, even amongst those with green tariffs, identifies notable differences between suppliers.
 

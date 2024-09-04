@@ -95,7 +95,7 @@ _renewables-surplus_ in one half-hour to cancel out _renewables-deficit_ in anot
 </p>
 
 ![Annual matching scores](/home/assets/matching-score-annual.png){: w="450" h="300" .right}
-Because it allows surplus to accumulate as credit the volumetric score can be <i>bigger</i> than 100%. None of this makes sense from a power-flow perspective but it is the way the [accounting currently works](/how-does-annual-matching-work).
+Because it allows surplus to accumulate as credit the volumetric score can be <i>bigger</i> than 100%. None of this makes sense from a power-flow perspective but it is the way the [accounting currently works](/how-renewable-matching-works).
 
 <!-- _TODO: add labels, re-base, consistent time-periods_ -->
 Volumetric scores will always be bigger than temporally matched scores, and what the industry uses to back '100% renewable' claims.
@@ -124,7 +124,7 @@ Supply and demand are well matched throughout the year: the temporal-matching sc
 ## Why temporal matching matters
 Half-hourly matching is consistent with grid-physics and the way that suppliers are required to balance the supply and demand of their power, and it resolves the inconsistencies and idiosyncrasies of annual matching.
 
-Because it is the rigorous measure of the renewable content of power it helps distinguish leading practices and suppliers. Even amongst the group of suppliers who are 100% matched on an annual basis there is substantial differentiation on a half-hourly basis (see the [scoreboard](/scoreboard]).
+Because it is the rigorous measure of the renewable content of power it helps distinguish leading practices and suppliers. Even amongst the group of suppliers who are 100% matched on an annual basis there is substantial differentiation on a half-hourly basis (see the [scoreboard](/scoreboard)).
 
 By distinguishing the cleanest power, half-hourly scoring helps direct consumers and investment into the technologies that are needed to deeply decarbonise our grid.
 
