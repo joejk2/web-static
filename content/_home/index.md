@@ -16,7 +16,7 @@ We focus on the **supply-business** which procures electricity on behalf of comm
 # The challenge
 {% include related-pages-big-cards.html related_posts="
   ab96ed The problem with renewable claims
-  9bf586-a-better-yardstick
+  9bf586-a-clearer-standard
   2a0abe-why-matching-matters
 " %}
 <br>

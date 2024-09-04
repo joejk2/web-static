@@ -20,7 +20,7 @@ Temporal matching is important for four reasons:
 #### 1) Grid physics
 The electrical grid depends on the continuous balance of supply and demand, moment by moment and day by day.
 
-Until temporally matched, certificate-based accounting [cannot represent power-flow](/a-better-yardstick) and the physical challenges of running a low-carbon grid.
+Until temporally matched, certificate-based accounting [cannot represent power-flow](/a-clearer-standard) and the physical challenges of running a low-carbon grid.
 
 Electricity suppliers need to temporally match their power positions with demand so already have the constitutional capability to temporally match certificates, and some suppliers have already started offering temporally-matched renewable power to commercial customers[^good-energy].
 
@@ -85,7 +85,7 @@ Our grids have been transformed over the last decade and even bigger changes are
 [^peninsula-clean-energy]: Peninsula Clean Energy: ["Achieving 24/7 renewable energy by 2025"](https://www.peninsulacleanenergy.com/wp-content/uploads/2023/01/24-7-white-paper-2023.pdf)
 ## Related pages
 {% include related-pages-small-cards.html related_posts="
-  9bf586-a-better-yardstick
+  9bf586-a-clearer-standard
   3b8dac-scoreboard
 "%}
 

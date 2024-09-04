@@ -165,7 +165,12 @@ Matched is developing a scoreboard of low-carbon suppliers.
 
 ## Related pages
 
-{% include related-pages-small-cards.html related_posts="159049-how-does-annual-matching-work,9bf586-a-better-yardstick,2a0abe-why-matching-matters,3b8dac-scoreboard"%}
+{% include related-pages-small-cards.html related_posts="
+  159049-how-does-annual-matching-work
+  9bf586-a-clearer-standard
+  2a0abe-why-matching-matters
+  3b8dac-scoreboard
+"%}
 
 ## Footnotes
 <!-- TODO: add via an include statement -->

@@ -52,7 +52,7 @@ The current practice amongst suppliers who offer renewable power is to buy certi
 
 [^annual-matching]: Or to require that certificates are volumetrically matched within the same year as consumption.
 
-The importance of temporal matching and the reasons why accounting practices should be updated to include it are discussed [here](a-better-yardstick)[^non-temporal-offsetting].
+The importance of temporal matching and the reasons why accounting practices should be updated to include it are discussed [here](a-clearer-standard)[^non-temporal-offsetting].
 
 [^non-temporal-offsetting]: Non-temporal matching is really just another form of offsetting since it allows certificates bought at one time to offset consumption at another.
 
@@ -68,7 +68,7 @@ However, in order to faithfully represent power flows and to motivate investment
 
 ## Related Pages
 {% include related-pages-small-cards.html related_posts="
-  9bf586-a-better-yardstick
+  9bf586-a-clearer-standard
   2a0abe-why-matching-matters
   3b8dac-scoreboard
 "%}
@@ -98,7 +98,7 @@ Transparency and clarity aside, temporal-matching will improve the impact that g
 
 
 
-As described [here](/a-better-yardstick), temporal-matching is
+As described [here](/a-clearer-standard), temporal-matching is
 
 
 
