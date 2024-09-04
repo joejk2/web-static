@@ -14,17 +14,17 @@ image:
   lqip: data:image/webp;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAICAIAAAB/FOjAAAAA9UlEQVR4nC3DWVLcQBAE0Kylu6VZOAPH51Q+AQEOkMWMWpXJj1/Esz9vr0fDz7B99X3Ys3mFwSyKbao/tT60PrkeGqe6lHv4w30z+1Zs9Ef5KRcQZC8M8gLevGbwCpLKr8w9/K/Fp/LrjF0+zQG41EuLeEe9+HnkSasSc0v/9vjw9q72yfynmDDBQmzUKu44p7sDzeVSzvDD/Md8R2yMzfKQCUh4l4hqpgt4uE9ZAekuAxwA9D9ggAFuSimNDUoooQCyQ904jItxAadVmAHo0Kq6o15QN9VVtYoDzC4NcIDDuaCmWZgZNMCreGfddd50XlSL2MVfIX2ozaLIFREAAAAASUVORK5CYII=
 ---
 
-## Four reasons
+## The imperative
 Temporal matching is important for four reasons:
 
-### 1) Grid physics
+#### 1) Grid physics
 The electrical grid depends on the continuous balance of supply and demand, moment by moment and day by day.
 
 Until temporally matched, certificate-based accounting [cannot represent power-flow](/a-better-yardstick) and the physical challenges of running a low-carbon grid.
 
 Electricity suppliers need to temporally match their power positions with demand so already have the constitutional capability to temporally match certificates, and some suppliers have already started offering temporally-matched renewable power to commercial customers[^good-energy].
 
-### 2) Transparent marketing
+#### 2) Transparent marketing
 The power sector is complex and people are busy so it's reasonable that most consumers assume that '100% renewable' means _exclusively_ renewable.
 
 The confusion amongst consumers risks a breakdown in trust and a backlash against all clean-power offers, even those that are high quality, and already there have been some high-profile repudiations[^repudiations].
@@ -35,7 +35,7 @@ The power sector is complex and most consumers have very little time or interest
 
 The issue is not with certificates, which remain a good method for tracking renewable power on open and liquid markets, but certificate-based accounting needs to be updated to temporally match supply with demand.
 
-### 3) Market signal
+#### 3) Market signal
 Renewable tariffs have the potential to incentivise the development of low-carbon infrastructure since the premium that consumers pay for clean power is an additional revenue stream.
 
 A third of British homes are now on renewable tariffs for which they pay roughly a 5% premium and, collectively, generate £500M annually[^market-signal].
@@ -56,7 +56,7 @@ The same studies that demonstrate the non-additionality of tariffs _without_ tem
 
 [^energy-tag-additionality]: See [this literature review](https://energytag.org/impact-scientific-consensus-on-the-benefits-of-granular-accounting) from EnergyTag
 
-### 4) Climate emergency
+#### 4) Climate emergency
 Electricity already accounts for a third of global emissions and under most net-zero scenarios its consumption almost doubles by mid-century.
 The imperative to decarbonise electricity is clear but the urgency of the purpose can be lost, or even obscured, in vague and ambiguous claims[^5-pct].
 
