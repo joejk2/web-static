@@ -18,7 +18,7 @@ Over the last decade it has become increasingly common for electricity suppliers
 
 But what does "100% Renewable" mean?
 
-What it strongly _implies_ is that all electricity consumed is that electricity is _exclusively_ renewable and that, at all times, all consumption is directly delivered from a wind farm, solar farm, or some other renewable source like hydroelectric or renewable biomass. This is a simple and compelling image and one that the vast majority of people, who spend very little time thinking about it, will accept at face-value.
+What it strongly _implies_ is that all electricity consumed is that electricity is _exclusively_ renewable and that, at all times, all consumption is directly delivered from a wind farm, solar farm, or some other renewable source like hydroelectric or renewable biomass. This is a simple and compelling message and one that the vast majority of people, who spend very little time thinking about it, will accept at face-value.
 
 But can it be true that a third of British homes are really getting renewable electricity all the time?
 
