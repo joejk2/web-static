@@ -7,9 +7,11 @@
 ##   source cdn-collate.sh  (run from /web-static)
 ################################################################################
 
-## CDN PATH RELATIVE TO ROOT OF WEB-STATIC
+cd ../
+
+## RELATIVE TO WEB-STATIC
 CDN_PATH='../cdn'
-CDN_PATH_ESC='..\/cdn'
+CDN_PATH_ESC='..\/cdn'   # 🤮
 
 ## FIND FILES
 find . -path "./content/*/assets/*" -o -path "./assets/img/*" > /tmp/cdn-index
@@ -27,3 +29,5 @@ do
   echo "cp $source $destination"
   cp $source $destination
 done;
+
+cd -
