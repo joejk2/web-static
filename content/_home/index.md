@@ -1,15 +1,18 @@
 # Matched
 
 <header><p class="post-desc fw-light mb-4">
-Clean electrification is a prerequisite for net-zero goals but there remains confusion about exactly what constitutes 'clean'.
-Matched is a not-for-profit initiative that develops open-source methods to evaluate electricity providers and rank the carbon intensity of their offers.
+Net-zero goals depend critically on the decarbonisation of electricity but lack a rating of the offers on the market.
+Matched is an open-source initiative that evaluates energy suppliers and the degree to which they have decarbonised.
 </p></header>
 
-Our mission is accelerate the offer of **electricity** plans which are **low-carbon** and **fully transparent** about the origination of power.
 
-We focus on the **supply-business** which procures electricity on behalf of commercial, industrial, and domestic customers. With public datasets we track the **carbon intensity** of power from each major supplier. We work with leading suppliers to promote the **cleanest tariffs**.
+The mission of the Matched initiative is to accelerate the widespread adoption of deeply-decarbonised electricity.
 
-  Our code and results are all **open-source** and we actively engage industry experts, including from energy suppliers, to validate and refine our methodology. We are a **not-for-profit** organisation funded entirely by philanthropic donations.
+We use public datasets to analyse the power bought and sold by leading suppliers on an hour-by-hour basis and to score suppliers based on the degree to which they have decarbonised the power they sell to their customers.
+
+We work with suppliers and other experts in the field to ensure that our methods and scores are accurate, and all our methodologies and code are open-sourced and peer-reviewed.
+
+We are a not-for-profit initiative funded entirely by philanthropic donations.
 
 {% include matched-lines-break.html %}
 
