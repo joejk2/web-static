@@ -11,10 +11,9 @@ We focus on the **supply-business** which procures electricity on behalf of comm
 
   Our code and results are all **open-source** and we actively engage industry experts, including from energy suppliers, to validate and refine our methodology. We are a **not-for-profit** organisation funded entirely by philanthropic donations.
 
-
 {% include matched-lines-break.html %}
 
-# Overview
+# The challenge
 {% include related-pages-big-cards.html related_posts="
   ab96ed The problem with renewable claims
   9bf586-a-better-yardstick
@@ -26,16 +25,14 @@ We focus on the **supply-business** which procures electricity on behalf of comm
   453e05 How we calculate matching scores
 " %}
 
-<br>
 {% include matched-lines-break.html %}
-<br>
-
 
 
 # Supplier Scoreboard
 {% include related-pages-big-cards.html related_posts="
   3b8dac Scoreboard
 " %}
+<br>
 {% include related-pages-small-cards.html related_posts="
   4431fc Matching Metrics Defined
 " %}
