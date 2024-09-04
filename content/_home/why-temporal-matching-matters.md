@@ -2,7 +2,7 @@
 layout: post
 page_id: 2a0abe
 title: Why temporal matching matters
-description: How do we most closely align the supply sector with the needs of a low-carbon grid?
+description: Why does temporal matching matter to a low-carbon grid?
 permalink: /:slug
 home_card: true
 comments: false
