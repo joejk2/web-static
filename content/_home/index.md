@@ -1,8 +1,8 @@
 # Matched
 
 <header><p class="post-desc fw-light mb-4">
-Net-zero goals depend critically on the decarbonisation of electricity but lack a rating of the offers on the market.
-Matched is an open-source initiative that evaluates energy suppliers and the degree to which they have decarbonised.
+Clean electricity is critical to the decarbonisation of homes and businesses but there has been no detailed and dependable way to rate the offers on the market.
+Matched is an open-source initiative that evaluates energy suppliers and the degree to which they have decarbonised the electricity they sell to their customers.
 </p></header>
 
 
