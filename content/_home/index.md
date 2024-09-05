@@ -7,7 +7,7 @@ Matched is an open-source project that scores energy suppliers on the carbon con
 
 The mission of Matched is to **accelerate the widespread adoption of deeply-decarbonised electricity**.
 
-Matched is the first project of its kind to use **public datasets** to analyse the procurement practices of energy suppliers on an **hour-by-hour basis** and to rate each supplier on the degree to which they have decarbonised their electricity.
+Matched is the first project of its kind to use **public datasets** to and a principled model of markets to analyse the procurement practices of energy suppliers on an **hour-by-hour basis** and to rate each supplier on the degree to which they have decarbonised their electricity.
 
 Our scoreboard gives homeowners and business owners a **new level of insight** when choosing a low-carbon supplier.
 
