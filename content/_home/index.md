@@ -1,18 +1,19 @@
 # Matched
 
 <header><p class="post-desc fw-light mb-4">
-Clean electricity is critical to the decarbonisation of homes and businesses but there has been no detailed and dependable way to rate the offers on the market.
-Matched is an open-source initiative that evaluates energy suppliers and the degree to which they have decarbonised the electricity they sell to their customers.
+Matched is an open-source project that scores energy suppliers on the carbon content of their electricity.
 </p></header>
 
 
-The mission of the Matched initiative is to accelerate the widespread adoption of deeply-decarbonised electricity.
+The mission of Matched is to **accelerate the widespread adoption of deeply-decarbonised electricity**.
 
-We use public datasets to analyse the power bought and sold by leading suppliers on an hour-by-hour basis and to score suppliers based on the degree to which they have decarbonised the power they sell to their customers.
+Matched is the first project of its kind to use **public datasets** to analyse the procurement practices of energy suppliers on an **hour-by-hour basis** and to rate each supplier on the degree to which they have decarbonised their electricity.
 
-We work with suppliers and other experts in the field to ensure that our methods and scores are accurate, and all our methodologies and code are open-sourced and peer-reviewed.
+Our scoreboard gives homeowners and business owners a **new level of insight** when choosing a low-carbon supplier.
 
-We are a not-for-profit initiative funded entirely by philanthropic donations.
+We work with suppliers and other experts in the field to ensure that our methods and scores are accurate, and our methodology, analyses, and code are **open-source and peer-reviewed**.
+
+We are an **independent and not-for-profit** project funded entirely by philanthropic grants.
 
 {% include matched-lines-break.html %}
 
@@ -25,7 +26,7 @@ We are a not-for-profit initiative funded entirely by philanthropic donations.
 <br>
 {% include related-pages-small-cards.html related_posts="
   159049 How does renewable matching work?
-  453e05 How we calculate matching scores
+  ff7eee How we calculate matching scores
 " %}
 
 {% include matched-lines-break.html %}
