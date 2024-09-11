@@ -1,7 +1,7 @@
 ---
 layout: post
 page_id: 3b8dac
-title: Scoreboard
+title: Scores
 description: How well have suppliers decarbonised their power?
 icon: fas fa-chart-line
 order: 1
