@@ -3,7 +3,6 @@ layout: post
 page_id: 2a0abe
 title: Why temporal matching matters
 description: Why does temporal matching matter to a low-carbon grid?
-permalink: /:path
 home_card: true
 comments: false
 toc: true

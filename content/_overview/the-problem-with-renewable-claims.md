@@ -3,7 +3,6 @@ layout: post
 page_id: ab96ed
 title: The problem with renewable claims
 description: Many suppliers market themselves as completely renewable but how justified is this?
-permalink: /:path
 home_card: true
 comments: false
 toc: true

@@ -5,7 +5,7 @@ refactor: false
 ---
 {% include lang.html %}
 
-{% capture my_include %}{% include_relative content/_home/index.md %}{% endcapture %}
+{% capture my_include %}{% include_relative content/index.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 {% if paginator.total_pages > 1 %}

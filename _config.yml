@@ -93,7 +93,7 @@ theme_mode: light # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-# cdn: 'https://d1sxho4kqlq0k7.cloudfront.net'
+#cdn: 'https://d27ea8myv3ulgn.cloudfront.net'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /assets/img/matched-logo-small.png
@@ -167,15 +167,16 @@ kramdown:
 collections_dir:
   content
 collections:
-  home:
+  overview:
     output: true
     sort_by: order
+    permalink: /overview/:path
   tabs:
     output: true
     sort_by: order
   scores:
     output: true
-    sort_by: order
+    permalink: /scores/:path
 
 defaults:
   - scope:

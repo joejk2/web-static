@@ -3,7 +3,6 @@ layout: post
 page_id: 9bf586
 title: A clearer standard
 description: How do suppliers score against more rigorous metrics?
-permalink: /:path
 date: 2019-08-08 11:33:00 +0000
 last_modified_at: 2024-08-15 11:33:00 +0000
 home_card: true
